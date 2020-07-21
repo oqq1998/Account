@@ -1,7 +1,8 @@
 <template>
     <div>
-        Account
-        <Nav />
+        <Layout>
+            <p>Account</p>
+        </Layout>
     </div>
 </template>
 
