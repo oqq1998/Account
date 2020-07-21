@@ -1,4 +1,3 @@
-/* eslint-disabled */
 const path = require('path')
 
 module.exports = {
