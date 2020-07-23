@@ -1,7 +1,7 @@
 <template>
     <div>
         <Layout>
-            <p>Labels</p>
+            <p>Labels哈哈哈哈哈</p>
         </Layout>
     </div>
 </template>

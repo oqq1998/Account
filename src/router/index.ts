@@ -15,7 +15,7 @@ Vue.use(VueRouter)
 const routes: Array<RouteConfig> = [
   {
     path: '/',
-    redirect:'/account'
+    redirect: '/account',
   },
   {
     path: '/account',
